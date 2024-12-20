@@ -14,3 +14,6 @@ A UK based .Net C# developer
 
 ---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=galemdev&show_icons=true&locale=en" alt="galemdev" /></p>
+
+---
+![Metrics](/github-metrics.svg)
