@@ -50,9 +50,3 @@ jobs:
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
-          
-          plugin_crypto: yes
-          plugin_crypto_id: bitcoin
-          plugin_crypto_vs_currency: gbp
-          plugin_crypto_days: 1
-          plugin_crypto_precision: 2
